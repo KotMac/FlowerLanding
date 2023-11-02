@@ -1,2 +1,2 @@
 # FlowerLanding
-HTML, CSS, Javascript, Bootstrap.
+FlowerLanding. HTML, CSS, Javascript, Bootstrap.
